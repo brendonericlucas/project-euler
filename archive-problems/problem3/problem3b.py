@@ -2,6 +2,14 @@ import math
 from itertools import compress
 
 def sieve_of_eratosthenes(n):
+    """
+      implements the sieve_of
+      eratosthenes; compare 
+      the time complexity of
+      this function to the 
+      function using trial 
+      division in sol 3a
+    """
     is_prime = [True]*(n + 1)
     is_prime[0] = False
     is_prime[1] = False
@@ -16,6 +24,7 @@ def sieve_of_eratosthenes(n):
 #print(sieve_of_eratosthenes(775146))
 
 def largest_prime_factor(num):
+    """ returns the largest prime factor of num """
     n = math.floor(math.sqrt(num))
     primes = reversed(sieve_of_eratosthenes(n))
     for p in primes:

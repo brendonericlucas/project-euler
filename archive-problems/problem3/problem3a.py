@@ -11,7 +11,7 @@ def has_divisor(num, arr):
 
 def primes(upper):
     """
-       uses to trial divison
+       uses trial divison
        to generate all primes
        in range [2, upper]
     """
