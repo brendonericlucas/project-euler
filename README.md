@@ -1,1 +1,1 @@
-Contains my solutions to Project Euler problems implemented in Python. Please try the problems yourself before looking at others' solutions. It's the only way to learn.
+Contains my solutions to Project Euler problems implemented in Python. Please try the problems yourself before looking at others' solutions. It's the only way to learn. Solutions to problems beyond the first 100 will never be public, per the project euler honor code. 
