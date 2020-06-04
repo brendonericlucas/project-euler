@@ -5,7 +5,7 @@ def sum_even_fibs(upper):
       using dynamic programming
     """
     f1, f2, f, sum = 1, 2, 0, 2
-    while f <= 4000000:
+    while f <= upper:
         f = f1 + f2
         f1 = f2
         f2 = f
