@@ -5,3 +5,5 @@ Remarks for problem 3: You may find it useful to do a bit of research on sieve m
 Remarks for problem 5: The fundamental theorem of arithmetic is helpful here - https://en.wikipedia.org/wiki/Fundamental_theorem_of_arithmetic 
 
 Remarks for problem 6: An efficient solution will make use of formulas for the sum of the first n natrual numbers, and the sum of the squares of the first n natural numbers.
+
+Remarks for problem 7: An efficient solution will use a good upper bound on the kth prime - https://en.wikipedia.org/wiki/Prime_number_theorem 
