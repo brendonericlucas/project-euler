@@ -7,3 +7,5 @@ Remarks for problem 5: The fundamental theorem of arithmetic is helpful here - h
 Remarks for problem 6: An efficient solution will make use of formulas for the sum of the first n natrual numbers, and the sum of the squares of the first n natural numbers.
 
 Remarks for problem 7: An efficient solution will use a good upper bound on the kth prime - https://en.wikipedia.org/wiki/Prime_number_theorem 
+
+Remarks for problem 9: Think about how the given constraints can be used to strucutre your seach through the solution space. 
