@@ -8,4 +8,7 @@ Remarks for problem 6: An efficient solution will make use of formulas for the s
 
 Remarks for problem 7: An efficient solution will use a good upper bound on the kth prime - https://en.wikipedia.org/wiki/Prime_number_theorem 
 
-Remarks for problem 9: Think about how the given constraints can be used to strucutre your seach through the solution space. 
+Remarks for problem 9: Think about how the given constraints can be used to structure your seach through the solution space. 
+
+Remarks for problem 10: Sometimes, simple is better (and simplest is best)! Start with the most naive approach using nested for-loops, and then think about how you can reduce the number of iterations required overall, and within each nested loop, using facts about how primality and divisibiity work. You can flatten the order
+of growth significantly by making use of such a strategy. 
