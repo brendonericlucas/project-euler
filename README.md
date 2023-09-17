@@ -1,4 +1,4 @@
-Contains my solutions to Project Euler problems implemented in Python. Please try the problems yourself before looking at others' solutions. It's the only way to learn. Solutions to problems beyond the first 100 will never be public, per the project euler honor code.
+Will eventually contain my solutions to Project Euler problems implemented in Python. Please try the problems yourself before looking at others' solutions. It's the only way to learn. Solutions to problems beyond the first 100 will never be public, per the project euler honor code.
 
 Remarks for problem 3: You may find it useful to do a bit of research on sieve methods for generating primes (e.g., https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes)
 
